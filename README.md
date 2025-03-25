@@ -1,6 +1,6 @@
 ### mini - vue
 
-**地址**：
+**地址**：https://github.com/YnDark/mini-vue.git
 
 **项目描述**：
 借鉴vue3的设计思想，重新实现vue3的部分模块功能。
